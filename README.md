@@ -1,2 +1,2 @@
 # Cookbook
-Este es un repositorio que contiene recetas y me gusta compartir con mis migos
+Agregando  una sentencia cuando guarda y cierra el editor
